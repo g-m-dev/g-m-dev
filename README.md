@@ -14,5 +14,5 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/thenotorious_ahmad/
-[linkedin]: www.linkedin.com/in/ghulam-muhammad-215a62262
+[linkedin]: https://www.linkedin.com/in/ghulam-muhammad-215a62262/
 
