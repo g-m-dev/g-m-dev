@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PHP CRUD(Create,Read,Update,Delete) Application</b>
-  - [Practicing PHP](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing PHP](https://github.com/g-m-dev/PHP-CRUD.git)
 
 
 
